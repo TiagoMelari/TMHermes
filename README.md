@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2>Hi there! :v:</h2>
 
-<!--
-**TMHermes/TMHermes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Sou o Tiago (e às vezes THermes), programador em desenvolvimento. Aprendendo atualmente com a <a href="https://www.devaria.com.br/">Devaria</a> <img src="https://icons.iconarchive.com/icons/icons8/ios7/256/Programming-Console-icon.png" width="18"> e em busca de mais conhecimento!
+</p>
 
-Here are some ideas to get you started:
+[![Twitter: Melari](https://img.shields.io/twitter/follow/Melari?style=social)](https://twitter.com/Melari)
+[![Linkedin: tiagomelari](https://img.shields.io/badge/-tiagomelari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagomelari/)](https://www.linkedin.com/in/tiago-melari-81793862/)
+[![GitHub TMHermes](https://img.shields.io/github/followers/tmhermes?label=follow&style=social)](https://github.com/TMHermes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const tiagothermes = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, SQL],
+  tools: [Node, Docker],
+  askMeAbout: ["music", "basketball", "games"],
+};
+
+```
+
+<div align="center">
+  <a href="https://github.com/TMHermes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TMHermes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMHermes&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+
+<p align="center">
+Dá uma olhada no que estou estudando :point_down:   
+</p>

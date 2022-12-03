@@ -1,7 +1,7 @@
-<h2>Hi there! :v:</h2>
+<h2>Olá! :v: || Hi there! :v:</h2>
 
 <p>
-Sou o Tiago (e às vezes THermes), programador em desenvolvimento. Aprendendo atualmente com a <a href="https://www.devaria.com.br/">Devaria</a> <img src="https://icons.iconarchive.com/icons/icons8/ios7/256/Programming-Console-icon.png" width="18"> e em busca de mais conhecimento!
+Sou o Tiago (e às vezes THermes), programador em desenvolvimento. Aprendendo atualmente com a <a href="https://www.devaria.com.br/">Devaria</a> <img src="https://icons.iconarchive.com/icons/icons8/ios7/256/Programming-Console-icon.png" width="18"> e em busca de mais conhecimento! || I´m Tiago (often called THermes) future programming developer. Currently studying at <a href="https://www.devaria.com.br/">Devaria</a> <img src="https://icons.iconarchive.com/icons/icons8/ios7/256/Programming-Console-icon.png" width="18"> and looking for more! 
 </p>
 
 [![Twitter: Melari](https://img.shields.io/twitter/follow/Melari?style=social)](https://twitter.com/Melari)
@@ -9,15 +9,21 @@ Sou o Tiago (e às vezes THermes), programador em desenvolvimento. Aprendendo at
 [![GitHub TMHermes](https://img.shields.io/github/followers/tmhermes?label=follow&style=social)](https://github.com/TMHermes)
 
 
+<h2> Medalhas da Devaria || Devaria's badges </h2>
+<img src="https://verzeldevariastorage.blob.core.windows.net/prd/images/badges/ative/9bf58744-2ac6-4ff6-92e5-478ec05eb7ce.svg?sv=2018-03-28&sr=b&sig=maccxjcIjZVgVUqR6foN4brYZFrUz%2BtwIJupgtWoXak%3D&se=2022-11-29T11%3A45%3A14Z&sp=r" width="70" alt="Node.js">
+  
+---
+  
 ```javascript
 const tiagothermes = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, SQL],
-  tools: [Node, Docker],
+  tools: [Node, Docker, MS Azure],
   askMeAbout: ["music", "basketball", "games"],
 };
 
 ```
+</div>
 
 <div align="center">
   <a href="https://github.com/TMHermes">
@@ -25,6 +31,6 @@ const tiagothermes = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMHermes&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-<p align="center">
-Dá uma olhada no que estou estudando :point_down:   
+  <p align="center">
+Dá uma olhada no que estou estudando :point_down:   ||   Check it out what i'm studying :point_down:   
 </p>

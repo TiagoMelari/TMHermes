@@ -10,7 +10,9 @@ Sou o Tiago (e às vezes THermes), programador em desenvolvimento. Aprendendo at
 
 
 <h2> Medalhas da Devaria || Devaria's badges </h2>
+<figure>
 <img src= "https://github.com/TMHermes/TMHermes/blob/main/imgs/node.png" width="70" alt= "Node.js">
+<figcaption><a href= "https://www.devaria.com.br/conquistas/2/d4796f314d51468485b25e6f8eb21086"><em>Node.js</em></a></figcaption>
   
 ---
   

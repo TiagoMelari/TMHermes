@@ -10,9 +10,13 @@ Sou o Tiago (e às vezes THermes), programador em desenvolvimento. Aprendendo at
 
 
 <h2> Medalhas da Devaria || Devaria's badges </h2>
+<div style="display: inline_block">
 <figure>
 <img src= "https://github.com/TMHermes/TMHermes/blob/main/imgs/node.png" width="70" alt= "Node.js">
 <figcaption><a href= "https://www.devaria.com.br/conquistas/2/d4796f314d51468485b25e6f8eb21086"><em>Node.js</em></a></figcaption>
+<img src= "https://github.com/TMHermes/TMHermes/blob/main/imgs/react.png" width="70" alt= "React.js">
+<figcaption><a href= "https://www.devaria.com.br/conquistas/3/a44134bc07c04c058e2d11a1d9c2dfc0"><em>React.js</em></a></figcaption>
+  </div>
   
 ---
   
@@ -20,7 +24,7 @@ Sou o Tiago (e às vezes THermes), programador em desenvolvimento. Aprendendo at
 const tiagothermes = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, SQL],
-  tools: [Node, Docker, MS Azure],
+  tools: [Node, React, Docker, MS Azure],
   askMeAbout: ["music", "basketball", "games"],
 };
 

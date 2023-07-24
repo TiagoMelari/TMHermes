@@ -1,8 +1,8 @@
 <h2>Olá! :v: || Hi there! :v:</h2>
 
-<p>
-Sou o Tiago (e às vezes THermes), programador em desenvolvimento. Aprendendo atualmente com a <a href="https://www.devaria.com.br/">Devaria</a> <img src="https://icons.iconarchive.com/icons/icons8/ios7/256/Programming-Console-icon.png" width="18"> e em busca de mais conhecimento! || I´m Tiago (often called THermes) future programming developer. Currently studying at <a href="https://www.devaria.com.br/">Devaria</a> <img src="https://icons.iconarchive.com/icons/icons8/ios7/256/Programming-Console-icon.png" width="18"> and looking for more! 
-</p>
+  <p>
+    Sou o Tiago (e às vezes THermes), programador em desenvolvimento e aluno do primeiro semestre de Análise de Sistemas! || I´m Tiago        (often called THermes) future programming developer and System Analysis first semester student!
+  </p>
 
 [![Twitter: Melari](https://img.shields.io/twitter/follow/Melari?style=social)](https://twitter.com/Melari)
 [![Linkedin: tiagomelari](https://img.shields.io/badge/-tiagomelari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagomelari/)](https://www.linkedin.com/in/tiago-melari-81793862/)
@@ -10,12 +10,12 @@ Sou o Tiago (e às vezes THermes), programador em desenvolvimento. Aprendendo at
 
 
 <h2> Medalhas da Devaria || Devaria's badges </h2>
-<div style="display: inline_block">
-<figure>
-<img src= "https://github.com/TMHermes/TMHermes/blob/main/imgs/node.png" width="70" alt= "Node.js">
-<figcaption><a href= "https://www.devaria.com.br/conquistas/2/d4796f314d51468485b25e6f8eb21086"><em>Node.js</em></a></figcaption>
-<img src= "https://github.com/TMHermes/TMHermes/blob/main/imgs/react.png" width="70" alt= "React.js">
-<figcaption><a href= "https://www.devaria.com.br/conquistas/3/a44134bc07c04c058e2d11a1d9c2dfc0"><em>React.js</em></a></figcaption>
+  <div style="display: inline_block">
+    <figure>
+    <img src= "https://github.com/TMHermes/TMHermes/blob/main/imgs/node.png" width="70" alt= "Node.js">
+    <figcaption><a href= "https://www.devaria.com.br/conquistas/2/d4796f314d51468485b25e6f8eb21086"><em>Node.js</em></a></figcaption>
+    <img src= "https://github.com/TMHermes/TMHermes/blob/main/imgs/react.png" width="70" alt= "React.js">
+    <figcaption><a href= "https://www.devaria.com.br/conquistas/3/a44134bc07c04c058e2d11a1d9c2dfc0"><em>React.js</em></a></figcaption>
   </div>
   
 ---
@@ -23,13 +23,12 @@ Sou o Tiago (e às vezes THermes), programador em desenvolvimento. Aprendendo at
 ```javascript
 const tiagothermes = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, SQL],
-  tools: [Node, React, Docker, MS Azure],
+  code: ["Javascript", "HTML", "CSS", "SQL"],
+  tools: ["Node", "React", "Docker", "MS Azure", "PostgreSQL", "Bootstrap", "jQuery", "Redux", "MongoDB", "Ajax"],
   askMeAbout: ["music", "basketball", "games"],
 };
 
 ```
-</div>
 
 <div align="center">
   <a href="https://github.com/TMHermes">
@@ -37,6 +36,6 @@ const tiagothermes = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMHermes&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-  <p align="center">
-Dá uma olhada no que estou estudando :point_down:   ||   Check it out what i'm studying :point_down:   
+<p align="center">
+Dá uma olhada no que tenho estudado :point_down:   ||   Check it out what i've been studying :point_down:   
 </p>

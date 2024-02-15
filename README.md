@@ -1,7 +1,7 @@
 <h2>Olá! :v: || Hi there! :v:</h2>
 
   <p>
-    Sou o Tiago (e às vezes THermes), programador em desenvolvimento e aluno do primeiro semestre de Análise de Sistemas! || I´m Tiago        (often called THermes) future programming developer and System Analysis first semester student!
+    Sou o Tiago (e às vezes THermes), programador em desenvolvimento e aluno do segundo semestre de Análise de Sistemas! || I´m Tiago        (often called THermes) future programming developer and System Analysis second semester student!
   </p>
 
 [![Twitter: Melari](https://img.shields.io/twitter/follow/Melari?style=social)](https://twitter.com/Melari)

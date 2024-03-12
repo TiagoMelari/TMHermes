@@ -21,7 +21,7 @@
 ---
   
 ```javascript
-const tiagothermes = {
+const tiagomelari = {
   pronouns: "he" | "his",
   code: ["Javascript", "HTML", "CSS", "SQL"],
   tools: ["Node", "React", "Docker", "MS Azure", "PostgreSQL", "Bootstrap", "jQuery", "Redux", "MongoDB", "Ajax"],
@@ -31,7 +31,7 @@ const tiagothermes = {
 ```
 
 <div align="center">
-  <a href="https://github.com/TMHermes">
+  <a href="https://github.com/TiagoMelari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoMelari&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMelari&layout=compact&langs_count=7&theme=gotham"/>
 </div>
